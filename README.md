@@ -13,6 +13,8 @@ Permite hacer un CRUD (create, read, update, delete) completo para presupuestos,
 
 + Arquitectura POO: Controladores, Servicios, Repositorios, Modelos
 
++ Lombok
+
 ## ✔️ Buenas prácticas utilizadas
 - Estructura clara por capas
 
